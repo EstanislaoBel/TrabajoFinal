@@ -15,8 +15,6 @@
     justify-content: center;
     align-items: center;
 }
-
-
 .detalle__table-container{
     width: 700px;
     background: var(--background);
