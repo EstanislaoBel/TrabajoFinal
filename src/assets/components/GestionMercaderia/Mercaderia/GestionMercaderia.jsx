@@ -16,7 +16,7 @@ const GestionMercaderia = () => {
   const [filas, setFilas] = useState([
     { articulo: "Tornillo", proveedor: "Lucas", cantidad: "4" },
     { articulo: "Cemento", proveedor: "Santiago", cantidad: "5" },
-    { articulo: "Clavo", proveedor: "Estanislao", cantidad: "1" },
+    { articulo: "Clavos", proveedor: "Estanislao", cantidad: "1" },
     { articulo: "Cemento", proveedor: "Estanislao", cantidad: "6" },
     { articulo: "Clavos", proveedor: "Santiago", cantidad: "23" },
     { articulo: "Tornillo", proveedor: "Estanislao", cantidad: "6" },
